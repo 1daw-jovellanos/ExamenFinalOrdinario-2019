@@ -1,0 +1,12 @@
+* Asegúrate de que todo el código que entregas compila correctamente.
+  No puedo corregir ejercicios que no compilan.
+
+* Escoge nombres adecuados y descriptivos para los identificadores, siguiendo
+  el estilo de Java
+
+* Indenta correctamente
+
+* Programa sin ineficiencias en bucles y estructuras de memoria costosas, como 
+  colecciones y arrays.
+
+* Evita el código muerto
